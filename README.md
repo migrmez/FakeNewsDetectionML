@@ -9,16 +9,16 @@ Train a Bidirectional Neural Network and LSTM based deep learning model to detec
 This project could be practically used by any media company to automatically predict whether the circulating news is fake or not. 
 The process could be done automatically without having humans manually review thousands of news related articles.
 
-Understand the Problem Statement and business case 
-Import libraries and datasets
-Perform Exploratory Data Analysis
-Perform Data Cleaning
-Visualize the cleaned data
-Prepare the data by tokenizing and padding
-Understand the theory and intuition behind Recurrent Neural Networks
-Understand the theory and intuition behind LSTM
-Build and train the model
-Assess trained model performance
+-Understand the Problem Statement and business case 
+-Import libraries and datasets
+-Perform Exploratory Data Analysis
+-Perform Data Cleaning
+-Visualize the cleaned data
+-Prepare the data by tokenizing and padding
+-Understand the theory and intuition behind Recurrent Neural Networks
+-Understand the theory and intuition behind LSTM
+-Build and train the model
+-Assess trained model performance
 
 Course Certificate: https://www.coursera.org/account/accomplishments/verify/SUG4RW9MWHYJ
 
